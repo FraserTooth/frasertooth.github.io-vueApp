@@ -1,5 +1,5 @@
 <template>
-  <v-card>
+  <v-card width="60vw">
     <v-flex class="text-center">
       <v-card-title class="headline">Fraser Tooth</v-card-title>
       <v-card-subtitle>Creating useful products that work for everyone.</v-card-subtitle>
@@ -22,6 +22,8 @@
           services to allow anybody to participate in a smarter and more sustainable
           future.
         </p>
+        <p>僕は馬鹿日本語をしゃべられます。</p>
+        <p>👍: 🧀 🍣 🍻 🍷 🍶 🎮 🎞️ 🐶</p>
       </v-card-text>
     </v-flex>
   </v-card>
