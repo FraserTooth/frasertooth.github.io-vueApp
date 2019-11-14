@@ -2,12 +2,7 @@
   <v-layout column justify-center align-center>
     <v-flex xs12 sm8 md6>
       <v-layout>
-        <v-card>
-          <v-flex class="text-center">
-            <v-card-title class="headline">Fraser Tooth</v-card-title>
-            <ResumeIntroduction />
-          </v-flex>
-        </v-card>
+        <ResumeIntroduction />
       </v-layout>
     </v-flex>
   </v-layout>
