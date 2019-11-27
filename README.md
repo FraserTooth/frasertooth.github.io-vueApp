@@ -19,4 +19,20 @@ $ yarn start
 $ yarn generate
 ```
 
+## Deploy to Github Page
+
+Set a remote called `githubpage` to the `<yourname>.github.io` repository.
+
+```bash
+    git remote add https://github.com/<yourname>/<yourname>.github.io.git
+```
+
+Run the following:
+
+```bash
+    yarn build
+
+    yarn deploy
+```
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
