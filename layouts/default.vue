@@ -64,9 +64,14 @@ export default {
           to: '/'
         },
         {
-          icon: 'mdi-chart-bubble',
+          icon: 'mdi-face',
           title: 'Resume',
           to: '/resume'
+        },
+        {
+          icon: 'mdi-lightbulb-on-outline',
+          title: 'Projects',
+          to: '/projects'
         }
       ],
       miniVariant: false,
