@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import ProjectAlwyn from './projects/ProjectAlwyn'
+import ProjectAlwyn from '../projects/ProjectAlwyn'
 export default {
   components: {
     ProjectAlwyn
