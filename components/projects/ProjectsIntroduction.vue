@@ -1,5 +1,5 @@
 <template>
-  <v-card>
+  <v-card width="90vw">
     <v-card-title class="headline">Fraser's Projects</v-card-title>
     <v-card-text>
       <p>Below are some of the Projects I've worked on.</p>

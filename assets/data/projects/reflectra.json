@@ -1,0 +1,14 @@
+{
+  "title": "Reflectra",
+  "subtitle": "App for a Smart Mirror",
+  "paragraphs": [
+    "Uses Facial Recognition Based Login",
+    "Built in Vue and Node.js, deployed to Heroku during 4 day sprint.",
+    "Tech Lead for 5 person team, worked across the stack.",
+    "Gave public presentation of the app"
+  ],
+  "links": {
+    "Github Page": "https://github.com/FraserTooth/reflectra",
+    "Presentation": "https://www.youtube.com/watch?v=F3mqIgY2uUk&feature=youtu.be&t=4172"
+  }
+}

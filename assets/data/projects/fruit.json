@@ -1,0 +1,14 @@
+{
+  "title": "Fruit",
+  "subtitle": "IoT Energy Management Device - By KiWi Power",
+  "paragraphs": [
+    "As Product Owner, brought the project from 10 to 1000 installed units across Europe with UL safety/cyber security certifications.",
+    "Technical Contributions: ",
+    " - DevOps tooling in Bash, automated testing rigs, Python test analysis tools, Bug discovery, Prototyping.",
+    "Management Contributions: ",
+    " - Backlog grooming, specification and feature design, retrospective/agile lead, manufacturer onboarding, installation guidance and training, stakeholder engagement."
+  ],
+  "links": {
+    "News Article": "https://www.energylivenews.com/2018/10/12/kiwi-power-develops-launches-a-portable-power-meter/"
+  }
+}

@@ -2,9 +2,9 @@
   <v-card class="jobCard">
     <v-card-title class="headline">{{experienceData.company}}</v-card-title>
     <v-card-subtitle>{{experienceData.subtitle}}</v-card-subtitle>
-    <Job v-for="jobData in experienceData.jobs" :jobData="jobData" :key="jobData.jobTitle[0]" />
+    <Job v-for="jobData in experienceData.jobs" :jobData="jobData" :key="jobData.jobTitle" />
     <v-card-text>
-      <div v-for="line in experienceData.paragraphs" :key="line[0]">{{line}}</div>
+      <div v-for="(line, index) in experienceData.paragraphs" :key="index">{{line}}</div>
     </v-card-text>
     <v-card-actions>
       <v-spacer />

@@ -3,7 +3,7 @@
     <v-card-title class="headline">{{project.title}}</v-card-title>
     <v-card-subtitle>{{project.subtitle}}</v-card-subtitle>
     <v-card-text>
-      <div v-for="line in project.paragraphs" :key="line[0]">{{line}}</div>
+      <div v-for="(line, index) in project.paragraphs" :key="index">{{line}}</div>
     </v-card-text>
     <v-card-actions>
       <v-spacer />

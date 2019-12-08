@@ -1,0 +1,13 @@
+{
+  "title": "Streaming Where",
+  "subtitle": "API for Community Sourced Streaming Data",
+  "paragraphs": [
+    "API for community sourced information about media streaming services.",
+    "Data model supports information about audio/subtitles/censorship/edits and country by country availability.",
+    "Built in Node.js using Postgres and GraphQL over a weekend",
+    "Built very basic Frontend in Bootstrap.js for Presentation"
+  ],
+  "links": {
+    "Github Page": "https://github.com/FraserTooth/streaming-where-api"
+  }
+}

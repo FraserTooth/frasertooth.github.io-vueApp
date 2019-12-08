@@ -1,0 +1,13 @@
+{
+  "title": "QLAB",
+  "subtitle": "Where effort is the currency.",
+  "paragraphs": [
+    "Project Currently Ongoing...",
+    "Education App where a user can use earned points to buy ‘shares’ in other users to encourage collaborative learning and engagement.",
+    "Built with React, Firebase & CircleCI.",
+    "Focused on Backend and DevOps in a 4 person team."
+  ],
+  "links": {
+    "Github Page": "https://github.com/qlab-team/qlab"
+  }
+}

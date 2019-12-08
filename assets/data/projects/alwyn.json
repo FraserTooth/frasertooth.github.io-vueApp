@@ -3,10 +3,13 @@
   "subtitle": "Visual Flowchart Code Generator",
   "paragraphs": [
     "Drag-drop flowchart app that transpiles to Javascript.",
-    "Built in React & Node."
+    "Interprets the correct linear order of the code from the structure of the flow chart.",
+    "Built in React & Next.js during 3 day sprint.",
+    "Gave public Tech Talk about the app/concept"
   ],
   "links": {
     "Github Page": "https://github.com/FraserTooth/alwyn",
-    "Demo": "https://alwyn.herokuapp.com/"
+    "Demo": "https://alwyn.herokuapp.com/",
+    "Tech Talk": "https://www.youtube.com/watch?v=YBPEIb1FlrE"
   }
 }
