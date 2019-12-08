@@ -12,6 +12,25 @@
         "Onboarding of new manufacturers. Ran the hiring process in the Firmware team",
         "Engagement with external partners to assist in the technical analysis of new business opportunities."
       ]
+    },
+    {
+      "jobTitle": "Product Owner",
+      "dates": "(01/2018 – 04/2019)",
+      "lines": [
+        "Ownership of all legacy and new Internet of Things hardware, guiding the firmware team, developing specifications with business owners and managing feature priorities.",
+        "Also wrote TDD code for bug fixing and small features in the ‘Electric Imp platform’ language Squirrel and companion testing framework ‘Nutkin’.",
+        "Role involved Agile management, documentation, business analysis using MySQL and Python, basic Android app development, physical hardware builds, policy engagement and lobbying, testing, prototyping and competitor research."
+      ]
+    },
+    {
+      "jobTitle": "Support/QA Engineer",
+      "dates": "(01/2017 – 01/2019)",
+      "lines": [
+        "My role was to own the resolution of operational problems, support product development and solve unique project challenges.",
+        "QA tasks: Bug diagnostics in our hardware and web services, automation of manual team tasks and ensuring commissioning best practice.",
+        "Support tasks: sourcing and testing equipment, automated testing maintenance and code level bug analysis in C & Squirrel.",
+        "Also supported various one-off projects such as an ‘SQL/Influx to modbus to voltages’ interface built with a RaspberryPi and NodeRed."
+      ]
     }
   ],
   "links": {

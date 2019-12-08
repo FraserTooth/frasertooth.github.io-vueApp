@@ -1,7 +1,7 @@
 <template>
   <v-layout column justify-center align-center>
     <ResumeIntroduction />
-    <CompanyCard :experienceData="kiwiData" />
+    <CompanyCard v-for="company in companies" :experienceData="company" :key="company.company" />
   </v-layout>
 </template>
 
@@ -10,7 +10,7 @@ import ResumeIntroduction from '../components/resume/ResumeIntroduction.vue'
 import CompanyCard from '../components/experience/CompanyCard.vue'
 
 //  JSON Files for Jobs
-import kiwiData from '../assets/data/experience/kiwipower.json'
+import companies from '../assets/data/experience/experience.js'
 export default {
   components: {
     ResumeIntroduction,
@@ -18,7 +18,7 @@ export default {
   },
   data() {
     return {
-      kiwiData
+      companies
     }
   }
 }

@@ -2,8 +2,7 @@
   <v-layout column justify-center align-center>
     <v-flex xs12 sm8 md6>
       <ProjectsIntroducton />
-      <ProjectCard :projectData="alwynData" />
-      <ProjectCard :projectData="goExamineData" />
+      <ProjectCard v-for="project in projects" :projectData="project" :key="project.title" />
     </v-flex>
   </v-layout>
 </template>
@@ -13,8 +12,7 @@ import ProjectsIntroducton from '../components/projects/ProjectsIntroduction'
 import ProjectCard from '../components/projects/ProjectCard'
 
 //  JSON Files for Projects
-import alwynData from '../assets/data/projects/alwyn.json'
-import goExamineData from '../assets/data/projects/goexamine.json'
+import projects from '../assets/data/projects/projects.js'
 export default {
   components: {
     ProjectsIntroducton,
@@ -22,8 +20,7 @@ export default {
   },
   data() {
     return {
-      alwynData,
-      goExamineData
+      projects
     }
   }
 }
