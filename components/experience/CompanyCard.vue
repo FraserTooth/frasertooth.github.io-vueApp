@@ -1,5 +1,5 @@
 <template>
-  <v-card>
+  <v-card class="jobCard">
     <v-card-title class="headline">{{experienceData.company}}</v-card-title>
     <v-card-subtitle>{{experienceData.subtitle}}</v-card-subtitle>
     <Job v-for="jobData in experienceData.jobs" :jobData="jobData" :key="jobData.jobTitle[0]" />
@@ -26,3 +26,9 @@ export default {
   props: ['experienceData']
 }
 </script>
+
+<style>
+.jobCard {
+  width: 90vw;
+}
+</style>

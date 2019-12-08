@@ -1,5 +1,5 @@
 <template>
-  <v-card width="60vw">
+  <v-card width="90vw">
     <v-flex class="text-center">
       <v-card-title class="headline">Fraser Tooth</v-card-title>
       <v-card-subtitle>Creating useful products that work for everyone.</v-card-subtitle>

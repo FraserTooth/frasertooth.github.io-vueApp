@@ -1,0 +1,19 @@
+{
+  "company": "Peter Brett Associates",
+  "subtitle": "Worked at Peter Brett Associates as a graduate engineer.",
+  "jobs": [
+    {
+      "jobTitle": "Graduate M&E Engineer",
+      "dates": "(06/2015 – 01/2017)",
+      "lines": [
+        "Member of the Buildings team specialising in electrical distribution and lighting for new builds, retrofits, highways and car parks.",
+        "Used Amtech, Dialux and AutoCad regularly as well using Excel to perform automatic design checks.",
+        "Projects include London Underground LED lighting renovations, environmental lighting assessments for planning and ‘Local Government House’ Refurbishment.",
+        "Co-ordinator for local college STEM partnership, where we built an LED art installation using Arduino."
+      ]
+    }
+  ],
+  "links": {
+    "Company Website": "https://www.peterbrett.com/"
+  }
+}

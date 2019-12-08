@@ -1,5 +1,5 @@
 <template>
-  <v-card>
+  <v-card class="projectCard">
     <v-card-title class="headline">{{projectData.title}}</v-card-title>
     <v-card-subtitle>{{projectData.subtitle}}</v-card-subtitle>
     <v-card-text>
@@ -23,3 +23,9 @@ export default {
   props: ['projectData']
 }
 </script>
+
+<style>
+.projectCard {
+  width: 90vw;
+}
+</style>
