@@ -2,7 +2,7 @@
   <v-layout column justify-center align-center>
     <v-flex xs12 sm8 md6>
       <ProjectsIntroducton />
-      <ProjectCard v-for="project in projects" :projectData="project" :key="project.title" />
+      <ProjectCard v-for="project in projects" :key="project.title" :project="project" />
     </v-flex>
   </v-layout>
 </template>
