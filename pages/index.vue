@@ -20,7 +20,7 @@
         </v-card-text>
         <v-card-actions>
           <v-spacer />
-          <v-btn color="primary" nuxt to="/resume">Resume</v-btn>
+          <v-btn color="primary" nuxt to="/aboutme">Resume</v-btn>
           <v-spacer />
           <v-btn color="primary" nuxt to="/projects">Projects</v-btn>
         </v-card-actions>

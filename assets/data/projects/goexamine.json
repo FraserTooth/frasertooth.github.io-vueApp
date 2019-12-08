@@ -1,0 +1,12 @@
+{
+  "title": "Go Examine",
+  "subtitle": "Fake News Training App",
+  "paragraphs": [
+    "App to scrape website and identify ‘fake news’ language usage.",
+    "Browser Extension which sends the url to API, receives a list of locations and highlights ‘problem words’ with hover-over tooltip.",
+    "API Built in Go deployed to Google Cloud Functions."
+  ],
+  "links": {
+    "Project Page": "https://github.com/FraserTooth/go_examine"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "title": "alwyn",
+  "subtitle": "Visual Flowchart Code Generator",
+  "paragraphs": [
+    "Drag-drop flowchart app that transpiles to Javascript.",
+    "Built in React & Node."
+  ],
+  "links": {
+    "Project Page": "https://github.com/FraserTooth/alwyn",
+    "Demo": "https://alwyn.herokuapp.com/"
+  }
+}

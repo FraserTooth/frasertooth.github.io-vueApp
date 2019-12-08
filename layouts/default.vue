@@ -65,8 +65,8 @@ export default {
         },
         {
           icon: 'mdi-face',
-          title: 'Resume',
-          to: '/resume'
+          title: 'About Me',
+          to: '/aboutme'
         },
         {
           icon: 'mdi-lightbulb-on-outline',
