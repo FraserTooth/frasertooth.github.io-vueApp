@@ -1,0 +1,20 @@
+{
+  "company": "KiWi Power Ltd.",
+  "subtitle": "Worked with KiWi Power for 2 years in a variety of roles as the company grew to be a world leader in Demand Response",
+  "jobs": [
+    {
+      "jobTitle": "Head of Hardware Solutions",
+      "dates": "(01/2019 – 04/2019)",
+      "lines": [
+        "Led a team supporting the work of the Technology, Sales, Installation and Operational teams to solve Hardware challenges.",
+        "Our work involved acting as 'subject matter experts' for our hardware, business systems and 3rd party integrations.",
+        "Led the certification process for our IoT Energy Management Product 'Fruit' to achieve UL2900-2-2 and UL Safety Certification",
+        "Onboarding of new manufacturers. Ran the hiring process in the Firmware team",
+        "Engagement with external partners to assist in the technical analysis of new business opportunities."
+      ]
+    }
+  ],
+  "links": {
+    "Company Website": "https://www.kiwipowered.com/"
+  }
+}
