@@ -24,7 +24,7 @@ $ yarn generate
 Set a remote called `githubpage` to the `<yourname>.github.io` repository.
 
 ```bash
-    git remote add https://github.com/<yourname>/<yourname>.github.io.git
+    git remote add githubpage https://github.com/<yourname>/<yourname>.github.io.git
 ```
 
 Run the following:
