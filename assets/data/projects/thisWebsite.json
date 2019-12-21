@@ -1,0 +1,11 @@
+{
+  "title": "This Website",
+  "subtitle": "Nuxt Website with Custom CMS",
+  "paragraphs": [
+    "Static Vue Website Built with Nuxt.js",
+    "Uses a custom CMS system based on JSON Files"
+  ],
+  "links": {
+    "Github Page": "https://github.com/FraserTooth/frasertooth.github.io-vueApp"
+  }
+}
