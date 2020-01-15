@@ -1,20 +1,6 @@
 <template>
   <v-card class="projectCard">
     <v-card-title class="headline">{{ project.title }}</v-card-title>
-    <v-card-subtitle>{{ project.subtitle }}</v-card-subtitle>
-    <v-card-text>
-      <div v-for="(line, index) in project.paragraphs" :key="index">{{ line }}</div>
-    </v-card-text>
-    <v-card-actions>
-      <v-spacer />
-      <v-btn
-        v-for="(url, name) in project.links"
-        :key="url"
-        color="primary"
-        link
-        :href="url"
-      >{{ name }}</v-btn>
-    </v-card-actions>
     <v-carousel
       v-if="project.pictures"
       height="50vh"
@@ -31,6 +17,17 @@
         contain
       />
     </v-carousel>
+
+    <v-card-subtitle>{{ project.subtitle }}</v-card-subtitle>
+    <v-card-text>
+      <div v-for="(line, index) in project.paragraphs" :key="index">{{ line }}</div>
+    </v-card-text>
+    <v-card-actions>
+      <v-spacer />
+      <v-flex>
+        <v-btn v-for="(url, name) in project.links" :key="url" link :href="url">{{ name }}</v-btn>
+      </v-flex>
+    </v-card-actions>
   </v-card>
 </template>
 
