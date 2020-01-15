@@ -7,6 +7,11 @@
     "API Built in Go deployed to Google Cloud Functions."
   ],
   "links": {
-    "Github Page": "https://github.com/FraserTooth/go_examine"
-  }
+    "API Github Page": "https://github.com/FraserTooth/go_examine",
+    "Browser Extension Github Page": "https://github.com/FraserTooth/go_examine_browser"
+  },
+  "pictures": [
+    "https://raw.githubusercontent.com/FraserTooth/go_examine/master/misc/logo-200x200.png",
+    "https://raw.githubusercontent.com/FraserTooth/go_examine/master/misc/wikipediaExample.png"
+  ]
 }

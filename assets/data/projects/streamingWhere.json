@@ -9,5 +9,8 @@
   ],
   "links": {
     "Github Page": "https://github.com/FraserTooth/streaming-where-api"
-  }
+  },
+  "pictures": [
+    "https://raw.githubusercontent.com/FraserTooth/streaming-where-api/master/database_structure.png"
+  ]
 }

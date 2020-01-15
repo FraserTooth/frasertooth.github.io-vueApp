@@ -10,5 +10,8 @@
   "links": {
     "Github Page": "https://github.com/FraserTooth/reflectra",
     "Presentation": "https://www.youtube.com/watch?v=F3mqIgY2uUk&feature=youtu.be&t=4172"
-  }
+  },
+  "pictures": [
+    "https://raw.githubusercontent.com/FraserTooth/reflectra/master/misc/naotoLoginSmall.png"
+  ]
 }
