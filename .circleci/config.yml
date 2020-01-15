@@ -36,5 +36,8 @@ jobs:
       # Run Build
       - run: yarn build
 
+      # Set Remote Branch
+      - run: git remote add githubpage https://github.com/FraserTooth/frasertooth.github.io.git
+
       # Deploy
       - run: yarn deploy
