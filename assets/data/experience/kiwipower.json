@@ -35,5 +35,10 @@
   ],
   "links": {
     "Company Website": "https://www.kiwipowered.com/"
-  }
+  },
+  "pictures": [
+    "https://assets.website-files.com/5db6b0c319de554d7df11205/5dbb07e58287ba1de23efa74_Kiwi_logo_a.svg",
+    "https://media-exp1.licdn.com/media-proxy/ext?w=1024&h=1024&f=n&hash=S8rWl%2FM%2FGIEvRmRUUmfXzwRWK6k%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWi9ccOLK7ukrUARKytTjQBneue1SGThQ47uLY_tLNwnisThcMX5agYUbhl4j3lK6w",
+    "https://media-exp1.licdn.com/media-proxy/ext?w=1024&h=770&f=n&hash=f8Lrc1pGXes7kJvbG8p2m2xPNeI%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWi6K8fYfLam8EAVfCkDjQBgLu-1STTnEY65ed_mL9sniJbtcpT5agYUbhl4j3lK6w"
+  ]
 }

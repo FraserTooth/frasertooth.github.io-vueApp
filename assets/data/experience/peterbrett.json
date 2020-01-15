@@ -15,5 +15,11 @@
   ],
   "links": {
     "Company Website": "https://www.peterbrett.com/"
-  }
+  },
+  "pictures": [
+    "https://media-exp1.licdn.com/dms/image/C4D1BAQGg7j1mE5KrRw/company-background_10000/0?e=1579154400&v=beta&t=ifMQXeoJG6wb31vj6wqmkSMTAxT9Oh_G3K-g0v9vGd0",
+    "https://media-exp1.licdn.com/media-proxy/ext?w=543&h=407&f=n&hash=Fawqbf4gJSBspoMrixYm8x5CKqk%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf37gLZKKfbf3uQxFcX8clABkKvKhQWOzD8fpeY-9e9V1ipTjIo24ZxUBbFI8lWxI",
+    "https://media-exp1.licdn.com/media-proxy/ext?w=543&h=407&f=n&hash=hHOnhuKdTRgS%2FvUL9bc%2B8rZmwvg%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3K4KMSJKOOmuQwScCkclAM7fvL6QWboD5u5eI65Kd4i35HmJI24ZxUBbFI8lWxI",
+    "https://media-exp1.licdn.com/media-proxy/ext?w=543&h=351&f=n&hash=L8SFSV2UomYN9CyFW44OXKgH7D0%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdfyPrLZPdKOeguQ9DKXoclAY0KvL6RDLkD8e1eIK6dNsnj8WwIo24ZxUBbFI8lWxI"
+  ]
 }

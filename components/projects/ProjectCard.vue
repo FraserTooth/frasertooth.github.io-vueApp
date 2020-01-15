@@ -40,6 +40,6 @@ export default {
 <style>
 .projectCard {
   width: 90vw;
-  margin-bottom: 10px;
+  margin-top: 10px;
 }
 </style>
