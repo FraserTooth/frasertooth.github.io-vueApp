@@ -1,20 +1,30 @@
 <template>
   <v-card class="projectCard">
-    <v-card-title class="headline">{{project.title}}</v-card-title>
-    <v-card-subtitle>{{project.subtitle}}</v-card-subtitle>
+    <v-card-title class="headline">{{ project.title }}</v-card-title>
+    <v-card-subtitle>{{ project.subtitle }}</v-card-subtitle>
     <v-card-text>
-      <div v-for="(line, index) in project.paragraphs" :key="index">{{line}}</div>
+      <div v-for="(line, index) in project.paragraphs" :key="index">{{ line }}</div>
     </v-card-text>
     <v-card-actions>
       <v-spacer />
       <v-btn
         v-for="(url, name) in project.links"
+        :key="url"
         color="primary"
         link
         :href="url"
-        :key="url"
-      >{{name}}</v-btn>
+      >{{ name }}</v-btn>
     </v-card-actions>
+    <v-carousel v-if="project.pictures" hide-delimiter-background show-arrows-on-hover cycle>
+      <v-carousel-item
+        v-for="(pictureUrl,i) in project.pictures"
+        :key="i"
+        reverse-transition="fade-transition"
+        transition="fade-transition"
+        :src="pictureUrl"
+        contain
+      />
+    </v-carousel>
   </v-card>
 </template>
 
@@ -27,5 +37,6 @@ export default {
 <style>
 .projectCard {
   width: 90vw;
+  margin-bottom: 10px;
 }
 </style>

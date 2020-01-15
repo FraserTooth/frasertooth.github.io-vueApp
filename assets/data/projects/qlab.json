@@ -9,5 +9,9 @@
   ],
   "links": {
     "Github Page": "https://github.com/qlab-team/qlab"
-  }
+  },
+  "pictures": [
+    "https://raw.githubusercontent.com/qlab-team/qlab/master/misc/qlab-logo-1.png",
+    "https://raw.githubusercontent.com/qlab-team/qlab/master/misc/qlab-screen.png"
+  ]
 }
