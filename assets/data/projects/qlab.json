@@ -8,7 +8,8 @@
     "Focused on Backend and DevOps in a 4 person team."
   ],
   "links": {
-    "Github Page": "https://github.com/qlab-team/qlab"
+    "Github Page": "https://github.com/qlab-team/qlab",
+    "Online Demo": "qlab-cc.firebaseapp.com/"
   },
   "pictures": [
     "https://raw.githubusercontent.com/qlab-team/qlab/master/misc/qlab-logo-1.png",

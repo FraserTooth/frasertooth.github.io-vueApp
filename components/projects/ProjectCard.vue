@@ -15,7 +15,13 @@
         :href="url"
       >{{ name }}</v-btn>
     </v-card-actions>
-    <v-carousel v-if="project.pictures" hide-delimiter-background show-arrows-on-hover cycle>
+    <v-carousel
+      v-if="project.pictures"
+      height="50vh"
+      hide-delimiter-background
+      show-arrows-on-hover
+      cycle
+    >
       <v-carousel-item
         v-for="(pictureUrl,i) in project.pictures"
         :key="i"

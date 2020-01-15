@@ -11,5 +11,10 @@
     "Github Page": "https://github.com/FraserTooth/alwyn",
     "Demo": "https://alwyn.herokuapp.com/",
     "Tech Talk": "https://www.youtube.com/watch?v=YBPEIb1FlrE"
-  }
+  },
+  "pictures": [
+    "https://raw.githubusercontent.com/FraserTooth/alwyn/master/misc/logo.png",
+    "https://raw.githubusercontent.com/FraserTooth/alwyn/master/misc/alwyn-mvp-screenshot.png",
+    "https://raw.githubusercontent.com/FraserTooth/alwyn/master/misc/tech.png"
+  ]
 }
